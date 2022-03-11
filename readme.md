@@ -51,7 +51,7 @@ Welcome!!!
 Then you can use the capabilities of the server:
 * hostname
 * cpu-name
-* cpu-name
+* load
 * date
 
 Example: 
