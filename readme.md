@@ -46,12 +46,12 @@ http://localhost:8080/
 ```
 You should get in response:
 ```
-Server capabilities: hostname cpu-name load date
+Welcome!!!
 ```
 Then you can use the capabilities of the server:
 * hostname
 * cpu-name
-* load
+* cpu-name
 * date
 
 Example: 

@@ -21,7 +21,6 @@ char port[6];
 
 int Socket(char *port);
 int Accept(int serverSocket);
-int Connect(char *port);
 int Close(int userSocket);
 
 
